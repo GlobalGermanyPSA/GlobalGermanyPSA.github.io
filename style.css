@@ -174,7 +174,7 @@ nav ul li a{
 }
 
 .pimg6{
-    background-image: url('../Images/pimg6.jpg');
+    background-image: url('./Images/pimg6.jpg');
     min-height: 400px;
 }
 
