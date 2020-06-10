@@ -25,15 +25,21 @@ body, html{
 
 .Blurb{
     position: absolute;
-    top: 23%;
-    left: 6%;
+    top: 25vh;
+    left: 6vw;
+    right: 55vw;
     padding: 3%;
-    width: 29%;
+    height: 55vh;
+    width: auto;
     background-color: black;
     border: none;
     opacity: 0.75;
     z-index: 20000;
     color: white;
+}
+
+.Blurb p{
+    font-size: 14px;
 }
 
 .vidNav{
