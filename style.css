@@ -128,7 +128,7 @@ nav ul li a{
 
 #vidSec{
     position: relative;
-    top:100%;
+    top: 100vh;
 }
 
 .section-dark{
