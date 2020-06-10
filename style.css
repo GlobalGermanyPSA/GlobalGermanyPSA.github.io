@@ -529,11 +529,15 @@ nav ul li a{
     }
 }
 
-@media(max-width: 1430px){
+@media(max-width: 1440px){
     #frame{
         position: absolute;
         left: 5%;
         top: 45%;
         width: 90%;
+    }
+
+    .Blurb p{
+        font-size: 20px;
     }
 }
